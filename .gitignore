@@ -1,3 +1,4 @@
 
-/node_modules
+/new_past_modules
+
 .env.local
