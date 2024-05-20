@@ -1,2 +1,3 @@
 Tô aqui
-    
+# API LOGIN
+KEY_LOGIN=19283287347
