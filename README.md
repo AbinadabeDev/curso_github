@@ -28,3 +28,6 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 
  [YouTube](https://youtube.com//vdevalorant)
 
+>Este é um blockquote, usado para destacar alguma area.
+>
+>Segunda area destacada.
