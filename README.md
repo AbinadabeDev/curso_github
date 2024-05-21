@@ -11,3 +11,9 @@ _Entendendo o que é **git**, Aprendendo sobre **repositórios**, Trabalhando co
 ##### Título
 ###### Título
 
+![Logo do Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+ 
+ ### Rede Social
+ [Instagram](https://instagram.com//euabinadabe)
+ 
+ [YouTube](https://youtube.com//vdevalorant)
